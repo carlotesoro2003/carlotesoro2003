@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋 I'm Carlo Tesoro</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on refining my PrepPal and EuCorp projects to add more AI-powered features and improve scalability.<br><br>🌱 I’m currently learning AWS services, Docker, and advanced DevOps practices to enhance deployment workflows.<br><br>👯 I’m looking to collaborate on open-source full stack projects, SaaS platforms, and AI-integrated web applications.<br><br>🤔 I’m looking for help with optimizing performance in large-scale MERN/FastAPI applications.<br><br>💬 Ask me about .NET, MERN stack, AI integrations, and building scalable, responsive applications.<br><br>📫 How to reach me: LinkedIn (linkedin.com/in/carlo-tesoro-bb7978267), GitHub (github.com/carlotesoro2003), or email at carlomtesoro@gmail.com<br><br>😄 Pronouns: He/Him<br><br>⚡ Fun fact: I once built a full-stack corporate planning system from scratch in under a semester — complete with AI-generated insights.
